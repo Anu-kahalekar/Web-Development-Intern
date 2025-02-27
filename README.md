@@ -1,10 +1,1 @@
-# Web-Development-Intern
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Simple HTML Page</title>
-</head>
-<body>
-    <h1>Welcome to My Website</h1>
-</body>
-</html>
+# Web-Development-Intership
